@@ -1,0 +1,15 @@
+{
+  "name": "react-render-component",
+  "version": "1.0.0",
+  "description": "Render react components or component instances",
+  "main": "index.js",
+  "repository": "git@github.com:cheapsteak/react-render-component.git",
+  "author": "<garnwraly@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "is-callable": "^1.1.3"
+  },
+  "peerDependencies": {
+    "react": "^15.0.0"
+  }
+}
